@@ -1,0 +1,17 @@
+{
+  "name": "azure-pdf-ocr-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "in4margaret",
+  "license": "ISC",
+  "dependencies": {
+    "azure-cognitiveservices-vision": "^1.0.0-preview",
+    "canvas": "^1.6.10",
+    "dotenv": "^5.0.1",
+    "pdfjs-dist": "^2.0.489"
+  }
+}
