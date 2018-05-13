@@ -11,6 +11,7 @@
   "dependencies": {
     "azure-cognitiveservices-vision": "^1.0.0-preview",
     "canvas": "^1.6.10",
+    "documentdb": "^1.14.4",
     "dotenv": "^5.0.1",
     "pdfjs-dist": "^2.0.489"
   }
